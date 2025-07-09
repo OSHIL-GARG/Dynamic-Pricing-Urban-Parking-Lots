@@ -17,7 +17,7 @@ We developed a dynamic pricing engine for 14 city parking spaces, simulating rea
 - Vehicle type (car, bike, truck)  
 - Nearby competitor pricing  
 
-Optional rerouting logic helps vehicles avoid overburdened lots by suggesting cheaper, nearby options.
+
 
 ---
 
