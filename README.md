@@ -120,18 +120,7 @@ Final Price = (Own Price + Nearby Mean Price) / 2
 
 ---
 
-## 📂 Folder Structure
 
-```
-📁 dynamic-parking-pricing/
-├── dataset.csv                  # 73-day time-series dataset
-├── pricing_model.py             # Core logic and functions
-├── main.ipynb                   # Google Colab simulation notebook
-├── README.md                    # This file
-└── Dynamic_Pricing_Theory.pdf   # Detailed project theory writeup ✅
-```
-
----
 
 ## ▶️ How to Run
 
