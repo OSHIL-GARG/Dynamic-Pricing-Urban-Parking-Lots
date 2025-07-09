@@ -33,20 +33,9 @@ We developed a dynamic pricing engine for 14 city parking spaces, simulating rea
 
 ---
 
-## 📐 Architecture Diagram (Mermaid)
 
-```mermaid
-flowchart TD
-    A[CSV Dataset (73 days × 14 lots)] --> B[Preprocessing & Feature Mapping]
-    B --> C[Baseline Pricing Model]
-    C --> D[Demand-Based Model]
-    D --> E[Competitive Pricing (Haversine)]
-    E --> F[Rerouting Logic (Optional)]
-    F --> G[Real-Time Simulation + Logging]
-    G --> H[Bokeh Visualization Output]
-```
 
----
+
 
 ## ⚙️ Project Architecture & Workflow
 
